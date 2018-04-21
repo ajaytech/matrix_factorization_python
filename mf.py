@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# Orignal AuthorAlbert Au Yeung (2010)
+# Orignal Author - Albert Au Yeung (2010)
 # An implementation of matrix factorization
 try:
     import numpy
